@@ -6,8 +6,8 @@ This project is a Data Analyst portfolio project aimed at analyzing COVID-19 dat
 
 You can find the SQL queries and Python code for the analyses conducted on COVID-19 death and vaccination data below:
 
-- [SQL Queries for Data Analysis](#sql-queries-for-data-analysis)
-- [Python Code for Data Transfer](#python-code-for-data-transfer)
+- [SQL Queries for Data Analysis]
+- [Python Code for Data Transfer]
 
 ## SQL Queries for Data Analysis
 
@@ -15,47 +15,47 @@ Below are the SQL queries conducted on COVID-19 death and vaccination data:
 
 1. **Total Case and Death Statistics**
     - Data Tables: `covid_deaths`
-    - SQL Query: [Total Case and Death Statistics](#total-case-and-death-statistics)
+    - SQL Query: [Total Case and Death Statistics]
 
 2. **Country-specific Death Rates**
     - Data Tables: `covid_deaths`
-    - SQL Query: [Country-specific Death Rates](#country-specific-death-rates)
+    - SQL Query: [Country-specific Death Rates]
 
 3. **Infection Ratios in Population by Country**
     - Data Tables: `covid_deaths`
-    - SQL Query: [Infection Ratios in Population by Country](#infection-ratios-in-population-by-country)
+    - SQL Query: [Infection Ratios in Population by Country]
 
 4. **Countries with Highest Infection Ratios**
     - Data Tables: `covid_deaths`
-    - SQL Query: [Countries with Highest Infection Ratios](#countries-with-highest-infection-ratios)
+    - SQL Query: [Countries with Highest Infection Ratios]
 
 5. **Countries with Highest Death Counts**
     - Data Tables: `covid_deaths`
-    - SQL Query: [Countries with Highest Death Counts](#countries-with-highest-death-counts)
+    - SQL Query: [Countries with Highest Death Counts]
 
 6. **Continents with Highest Death Counts**
     - Data Tables: `covid_deaths`
-    - SQL Query: [Continents with Highest Death Counts](#continents-with-highest-death-counts)
+    - SQL Query: [Continents with Highest Death Counts]
 
 7. **Global Statistics**
     - Data Tables: `covid_deaths`
-    - SQL Query: [Global Statistics](#global-statistics)
+    - SQL Query: [Global Statistics]
 
 8. **Population and Vaccination Statistics**
     - Data Tables: `covid_deaths`, `covid_vaccinations`
-    - SQL Query: [Population and Vaccination Statistics](#population-and-vaccination-statistics)
+    - SQL Query: [Population and Vaccination Statistics]
 
 9. **CTE (Common Table Expression) Usage**
     - Data Tables: `covid_deaths`, `covid_vaccinations`
-    - SQL Query: [CTE Usage](#cte-usage)
+    - SQL Query: [CTE Usage]
 
 10. **Temporary Table Usage**
     - Data Tables: `covid_deaths`, `covid_vaccinations`
-    - SQL Query: [Temporary Table Usage](#temporary-table-usage)
+    - SQL Query: [Temporary Table Usage]
 
 11. **Creating a View to Store Data for Later Visualizations**
     - Data Tables: `covid_deaths`, `covid_vaccinations`
-    - SQL Query: [Creating a View](#creating-a-view)
+    - SQL Query: [Creating a View]
 
 ## Python Code for Data Transfer
 
